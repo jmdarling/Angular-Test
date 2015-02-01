@@ -1,4 +1,2 @@
-#Angular-Test
-This repo will be used to hold all of the "tests" I do during the process of learning Angular JS.
-
-Each "test" will be hosted in it's own branch.
+#First Step: Adding Angular to the HTML Page
+Created following [this](https://egghead.io/lessons/first-step-adding-to-project) tutorial at egghead.io.
