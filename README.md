@@ -11,3 +11,7 @@ First Step: Adding Angular to the HTML Page
 Basic Binding in AngularJS
 * [tutorial](https://egghead.io/lessons/angularjs-binding)
 * [branch](https://github.com/jmdarling/Angular-Test/tree/egghead.io-Basic-Binding-in-AngularJS)
+
+Controllers
+* [tutorial](https://egghead.io/lessons/angularjs-controllers)
+* [branch](https://github.com/jmdarling/Angular-Test/tree/egghead.io-Controllers)
